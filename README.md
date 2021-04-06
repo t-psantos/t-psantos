@@ -2,7 +2,6 @@
 
 <h2>About Me:</h2>
 
- 💡  I like to explore new technologies and develop software solutions <br/>
  🎓  I'm currently studying Systems and Analysis Development <br/>
  🔭  I like to explore new technologies and develop software solutions <br/>
  🌱  I am currently learning Java <br/>
